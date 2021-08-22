@@ -1,0 +1,25 @@
+.hotel {
+  font-family: "Rampart One", cursive;
+  color: #ffffff;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+}
+
+.hotel span {
+  padding-left: 10px;
+}
+
+.navlink {
+  font-family: fantasy;
+  font-size: 1.1rem;
+  font-weight: 500;
+
+  letter-spacing: 0.2rem;
+  float: right;
+}
+
+.link {
+  padding: 0 20px;
+  color: #ffffff;
+}

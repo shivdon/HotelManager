@@ -1,0 +1,14 @@
+.hotelCard {
+  width: 300px;
+  height: 420px;
+  border: 1px solid #d3d3d3;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 30px;
+}
+
+.hotelCard:hover {
+  transform: scale(1.1);
+  transition: transform ease-in-out 0.6s;
+  cursor: pointer;
+}
